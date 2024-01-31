@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box; /*O border box é uma propriedade que faz com que as bordas do elemento sejam calculadas com o padding*/
+    font-family: 'Montserrat',sans-serif;
+    margin: 0;
+    padding: 0;/*Meio que espaça o elemento para dentro*/
+
+/*A diferença de margim e padding é que um vai fazer do lado de fora e o outro para o lado de dentro*/
+}
+
+body{
+    color: #263138
+}
+
+heard{
+    backgroud-color: #FF9A6C;
+    display:flex;/*O display é a exibição do elemento, o formato de como ele exibe as coisas que estão detro dele*/
+    align-items:center;/*Ele vai alinhar na vertical */
+    justify-content:/*Ele vai alinhar na orizontal*/space-between;/*Ele vai espaçar entre*/
+    padding-left:88px;
+    padding-right:80px;
+    padding-top:24px;
+    padding-bottom:24px; 
+}
