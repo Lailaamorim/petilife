@@ -8,12 +8,7 @@
 [🔗CLIQUE AQUI PARA ACESSAR😍](https://www.onebitcode.com/)
 
 </div>
-
-
-(^///^) <p> Com magnifico professor Gustavo Guanabara</p>
-
-![Gustavo Guanabara](https://www.cursoemvideo.com/wp-content/uploads/2019/08/guana6.png)
-## 💻 Description
+(^///^)
 
 <p>Series de desafios postos pelo o canal de ensino curso em vídeo, onde eu busco estudar é aprender muito.</p>
 
