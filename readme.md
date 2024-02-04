@@ -1,19 +1,14 @@
-# Python
-![Curso em Video](https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png)
+#Onebitcode
+![One Bit Code](https://scontent.fbsb3-1.fna.fbcdn.net/v/t1.6435-9/193246130_1457676957898006_1689293267663486377_n.png?_nc_cat=102&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeE5JRp_xp9e1-cFOnkl85lfhflpt6GV9RWF-Wm3oZX1FUk1oQIkeu0PMUbEtLL1_lR4dAtA7Ke2rS-_mQZRBzhT&_nc_ohc=t4p4yd0blckAX_zYa4u&_nc_ht=scontent.fbsb3-1.fna&oh=00_AfCdkRRSwixeJanG86mygUEKTvdMPjGgLs2MpNOKZoo_2w&oe=65E127BC)
 
-<h1 align="center">CURSO EM VIDEO</h1>
+<h1 align="center">ONE BIT CODE</h1>
 
 <div align="center">
 
-[🔗CLIQUE AQUI PARA ACESSAR😍](https://www.cursoemvideo.com/)
+[🔗CLIQUE AQUI PARA ACESSAR😍](https://www.onebitcode.com/)
 
 </div>
-
-
-(^///^) <p> Com magnifico professor Gustavo Guanabara</p>
-
-![Gustavo Guanabara](https://www.cursoemvideo.com/wp-content/uploads/2019/08/guana6.png)
-## 💻 Description
+(^///^)
 
 <p>Series de desafios postos pelo o canal de ensino curso em vídeo, onde eu busco estudar é aprender muito.</p>
 
