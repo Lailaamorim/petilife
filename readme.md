@@ -5,7 +5,7 @@
 
 <div align="center">
 [🔗CLIQUE AQUI PARA ACESSAR😍](https://lailaamorim.github.io/petilife/)
-[🔗CLIQUE AQUI PARA ACESSAR😍](https://www.onebitcode.com/)
+
 
 </div>
 (^///^)
