@@ -4,7 +4,7 @@
 <h1 align="center">ONE BIT CODE</h1>
 
 <div align="center">
-[🔗CLIQUE AQUI PARA ACESSAR😍](https://lailaamorim.github.io/petilife/)
+[🔗CLIQUE AQUI PARA ACESSAR😍](https://lailaamorim.github.io/petilife/)]
 
 
 </div>
